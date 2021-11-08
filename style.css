@@ -1,0 +1,29 @@
+﻿* div {
+	border: 1px solid black;
+}
+.conteiner {
+	width: 1000px;
+	margin: 0 auto;
+}
+.header {
+	height: 300px;
+}
+.main {
+	height: 700px;
+	box-sizing: border-box;
+}
+.sidebar {
+	width: 30%;
+	float: left;
+	box-sizing: border-box;
+	height: 700px;
+}
+.content {
+	width: 70%;
+	float: right;
+	box-sizing: border-box;
+	height: 700px;
+}
+.footer {
+	height: 300px;
+}
